@@ -1,0 +1,2 @@
+rootProject.name = "Demo Contexxt Menu Translation"
+include ':app'
